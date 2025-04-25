@@ -34,6 +34,8 @@
 
 
 ## 📜 توضیحات
+[![Stargazers over time](https://starchart.cc/liMilCo/BPB-ReCoder.svg?variant=adaptive)](https://starchart.cc/liMilCo/BPB-ReCoder)
+
 - پنل BPB اصلی : https://github.com/bia-pain-bache/BPB-Worker-Panel
 
 <br>
